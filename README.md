@@ -9,3 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumago01" alt="kumago01" /></a> </p>
 
+
+[![Top Languages kumago01 worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=kumago01)](https://github.com/kumago01)
+
